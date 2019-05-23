@@ -1,6 +1,1 @@
-jsonschema==2.6.0
-peewee==3.*
-strict-rfc3339
-appdirs>=1.4.0
-iso8601
-python-json-logger>=0.1.5
+
